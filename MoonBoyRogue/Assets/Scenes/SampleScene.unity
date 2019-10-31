@@ -908,11 +908,6 @@ PrefabInstance:
       propertyPath: fireDelay
       value: 0.5
       objectReference: {fileID: 0}
-    - target: {fileID: 2823432551796290394, guid: db24bbe507045ed448c61de643a7e75e,
-        type: 3}
-      propertyPath: speed
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 2823432551796290392, guid: db24bbe507045ed448c61de643a7e75e,
         type: 3}
       propertyPath: m_Sprite
